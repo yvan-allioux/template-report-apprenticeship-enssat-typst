@@ -211,7 +211,7 @@ _#lorem(20)_
 //#lorem(550)
 
 
-//ici on a un titre et in ne veut pas de saut de page directement après le titre, on utilise donc la fonction stick-together
+//ici on a un titre et in ne veut pas de saut de page directement après le titre, one ne veux pas non plus avoir une page breack qui pourais laiser un trop grand espace avant le titre, on utilise donc la fonction stick-together
 
 #stick-together(//fonction pour coller les paragraphes et ne pas avoir de saut de page
   threshold: 5em,//taille de l'espace entre les paragraphes
